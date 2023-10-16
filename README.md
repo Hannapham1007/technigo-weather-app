@@ -1,21 +1,6 @@
 # Weather App
+My classmates and I collaborated on developing a simple weather application as a part of our JavaScript course. The goal of the project was to present today's weather and a5-day forecast by fetching data from weather API. We used HTML, CSS and JavaScript programming languages.
 
-Replace this readme with your own information about your project.
-
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
-
-## The problem
-
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
 
 ## View it live
-
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
-
-## Creadit for images from unsplash
-clouds-bg.jpg: Egor Yakushkin
-drizzle-bg.jpg: frame harirak
-rain-bg.jpg: Suhyeon Choi 
-snow-bg.jpg: Kelly Sikkema
-clear-bg.jpg: Henry & Co.
-thunderstorm-bg.jpg: Mélody P
+https://openweather-project.netlify.app/
